@@ -35,7 +35,7 @@ function App() {
 
   return (
     <main className="w-full h-full relative ">
-      <header className="w-full h-[20vh] md:h-[25vmin]  flex justify-center items-center text-2xl md:text-6xl">
+      <header className="w-full h-[20vh] md:h-[25vmin]  flex justify-center items-center text-4xl md:text-6xl">
         <h1 className="text-white font-bold w-fit h-fit">Get Random Color</h1>
       </header>
       <section className="w-full flex  items-center flex-col justify-start pt-8 gap-4 h-[calc(100%-20vh)] md:h-[calc(100%-25vmin)]">
